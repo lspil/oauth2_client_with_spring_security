@@ -1,13 +1,13 @@
-package com.example.ssc19rs;
+package com.example.authorizationserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SsC19RsApplication {
+public class Main {
 
     public static void main(String[] args) {
-        SpringApplication.run(SsC19RsApplication.class, args);
+        SpringApplication.run(Main.class, args);
     }
 
 }

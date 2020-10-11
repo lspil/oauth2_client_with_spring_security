@@ -1,4 +1,4 @@
-package com.example.ssc19rs;
+package com.example.resourceserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

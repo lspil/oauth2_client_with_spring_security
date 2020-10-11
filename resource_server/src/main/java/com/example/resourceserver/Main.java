@@ -1,13 +1,13 @@
-package com.example.ssc18;
+package com.example.resourceserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SsC18Application {
+public class Main {
 
     public static void main(String[] args) {
-        SpringApplication.run(SsC18Application.class, args);
+        SpringApplication.run(Main.class, args);
     }
 
 }

@@ -1,4 +1,4 @@
-package com.example.ssc18.config;
+package com.example.authorizationserver.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
